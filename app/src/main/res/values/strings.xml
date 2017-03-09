@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PermissionApp</string>
+    <string name="missing_permissions">Missing Permissions</string>
+</resources>
